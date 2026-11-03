@@ -8,3 +8,5 @@ creators.
 
 [![X](https://img.shields.io/badge/X-@0x__kaize-000000?logo=x&logoColor=white)](https://x.com/0x_kaize)
 [![Stars](https://img.shields.io/github/stars/0xkaize/kaize-os?style=social)](https://github.com/0xkaize/kaize-os/stargazers)
+
+**Author**
