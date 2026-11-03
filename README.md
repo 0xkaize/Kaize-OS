@@ -19,7 +19,7 @@ creators.
 | | Section | What's inside |
 |:---:|:---|:---|
 | `01` | **[Setup & Niche](handbook/01-setup-and-niche.md)** | Profile, bio, positioning, choosing a niche |
-| `02` | **[How the Algorithm Works](handbook/02-algorithm.md)** | What X actually rewards — and what kills reach |
+| `02` | **[How the Algorithm Works](handbook/02-algorithm.md)** | What X actually rewards and what kills reach |
 | `03` | **[Posting & Growth](handbook/03-posting-and-growth.md)** | Cadence, timing, replies, engagement loops |
 | `04` | **[Tools](tools/README.md)** | Editing, scheduling, analytics, design |
 | `05` | **[Grok Bots](grok/README.md)** | The bots worth using + how to use them |
